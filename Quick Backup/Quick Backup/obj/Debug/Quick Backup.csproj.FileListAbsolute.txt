@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\bin\Debug\Quick Backup.exe.config
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\bin\Debug\Quick Backup.exe
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\bin\Debug\Quick Backup.pdb
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\obj\Debug\Quick Backup.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\obj\Debug\Quick Backup.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\obj\Debug\Quick_Backup.Form1.resources
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\obj\Debug\Quick_Backup.Properties.Resources.resources
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\obj\Debug\Quick Backup.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\obj\Debug\Quick Backup.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\obj\Debug\Quick Backup.exe
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\obj\Debug\Quick Backup.pdb
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\bin\Debug\Quick Backup.exe.manifest
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\bin\Debug\Quick Backup.application
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\obj\Debug\Quick Backup.exe.manifest
+C:\Users\Dell\source\repos\Quick Backup\Quick Backup\obj\Debug\Quick Backup.application
